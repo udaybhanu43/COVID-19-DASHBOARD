@@ -44,7 +44,3 @@ To run the code
 - Run the file `app.py` using `python3 app.py` optional flags to run the file are:
 - Example: `python3 app.py`
 
-## Contributions
-
--[Yash Anand](https://github.com/yashanand1000)
--[Tushar Kumar](https://github.com/Vincit0re)
